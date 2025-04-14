@@ -1,4 +1,4 @@
 this is how git works 
 okey now lets push second line
 okey now the thing that i am typing is in bug-fix branch
-this is the 4th line
+this is the 5th line
