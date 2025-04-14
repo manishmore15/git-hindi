@@ -1,1 +1,2 @@
 this is how git works 
+okey now lets push second line
