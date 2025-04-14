@@ -1,2 +1,3 @@
 this is how git works 
 okey now lets push second line
+okey now the thing that i am typing is in bug-fix branch
